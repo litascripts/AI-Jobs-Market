@@ -3,7 +3,7 @@
 This project explores a global dataset of AI-related job postings to uncover insights about job availability, salaries, remote work trends, experience levels, top hiring companies, and more. The findings are visualized through an interactive Tableau dashboard.
 
 📊 **Live Dashboard**: 
-🔗 [Global AI Jobs Distribution - Tableau Public]([https://public.tableau.com/app/profile/lita/viz/GlobalAIJobsDistribution/Dashboard1?publish=yes])
+🔗 [Global AI Jobs Distribution - Tableau Public](https://public.tableau.com/app/profile/lita/viz/GlobalAIJobsDistribution/Dashboard1?publish=yes)
 ![Dashboard 1](https://github.com/user-attachments/assets/f84f810a-60aa-4d12-88c2-e45694d5bead)
 
 ---
